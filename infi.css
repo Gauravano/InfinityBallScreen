@@ -5,9 +5,10 @@
 }
 
 body{
-	background-color: yellow;
+	background-image: url("d6e5e40d22d3.gif");
 	width: 100vw;
 	height: 100vh;
+	position: fixed;
 }
 
 #infiBall{
